@@ -136,7 +136,7 @@ params:
       category: Team Hydra Partners
       description: A bot for the House of Brilliance powered by Team Hydra.
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#22b73d"
+  brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
   logo: https://hep.gg/hydralogo
@@ -164,5 +164,5 @@ params:
       description: Partner services of Team Hydra will be listed here.
       closed: true
   description: TESTING status page of Team Hydra services.
-  enableCustomHTML: true
+  enableCustomHTML: false
   useLargeHeaderDesign: true
